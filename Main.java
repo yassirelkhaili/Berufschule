@@ -1,5 +1,6 @@
 import Packages.Calculator;
 import Packages.Tankstelle;
+import Packages.Benzinverbrauch;
 
 import java.util.Scanner;
 
@@ -52,6 +53,12 @@ public class Main {
         // Tankstelle tankstelle = new Tankstelle(getankteLiter);
         // tankstelle.ergebnisAufDemBildschirmAusgeben();
         // Aufgabe 6
-        
+        // 1.
+        // Scanner scanner = new Scanner(System.in);
+        // System.out.print("Gefahrene Kilometer: ");
+        // double verbrauchtesBenzin = Benzinverbrauch.eingabePrüfen(scanner);
+        // Benzinverbrauch benzinverbrauch = new Benzinverbrauch(verbrauchtesBenzin);
+        // benzinverbrauch.ergebnisAufDemBildschirmAusgeben();
+        // Wird fortgesetzt...
     }
 }
