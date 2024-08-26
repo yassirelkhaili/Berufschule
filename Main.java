@@ -1,6 +1,8 @@
 import Packages.Calculator;
 import Packages.Tankstelle;
 import Packages.Benzinverbrauch;
+import Packages.Kreisrechner;
+
 
 import java.util.Scanner;
 
@@ -59,6 +61,15 @@ public class Main {
         // double verbrauchtesBenzin = Benzinverbrauch.eingabePrüfen(scanner);
         // Benzinverbrauch benzinverbrauch = new Benzinverbrauch(verbrauchtesBenzin);
         // benzinverbrauch.ergebnisAufDemBildschirmAusgeben();
-        // Wird fortgesetzt...
+        // Aufgabe 7
+        // 1.
+        // Scanner scanner = new Scanner(System.in);
+        // System.out.print("Geben Sie den Radius des Kreises ein: ");
+        // double radiusDesKreises = Kreisrechner.eingabePrüfen(scanner);
+        // Kreisrechner kreisrechner = new Kreisrechner(radiusDesKreises);
+        // kreisrechner.ergebnisAufDemBildschirmAusgeben();
+        // 2. Man kann auf die vordefinierte Pi-Konstante über die Math-Bibliothek zugreifen, genauer gesagt über die PI-Property.
+        // Aufgabe 8
+        //
     }
 }
